@@ -96,4 +96,4 @@ This project is licensed under the [MIT License](LICENSE).
 
 Developed by **Anderson Rafael Camero Bajaire**.
 
-You can view the project online at [Task Tracker Project](https://roadmap.sh/projects/task-tracker).
+You can view the project online at [Task Tracker Project](https://roadmap.sh/projects/github-user-activity).
